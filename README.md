@@ -1,4 +1,4 @@
-# TeleG Downloader 🚀
+# TeleKram🚀
 ### Telegram Channel Viewer on Interanet
 ### مشاهده کانال‌های تلگرام در دوران قطعی اینترنت 
 
