@@ -10,7 +10,7 @@
 ## 🇬🇧 English Description
 
 ### What is this?
-**TeleG Downloder** is a standalone Python tool designed to fetch and view **public Telegram channel** posts during internet restrictions (National Internet).
+**Telekram** is a standalone Python tool designed to fetch and view **public Telegram channel** posts during internet restrictions (National Internet).
 It uses a bundled `curl` tool to route traffic through Google's infrastructure, bypassing blocks without needing a VPN.
 
 ### ✨ Features
